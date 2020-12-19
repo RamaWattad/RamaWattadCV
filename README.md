@@ -1,1 +1,110 @@
 # RamaWattadCV
+
+<html>
+ <head>
+<link type="text/css" rel="stylesheet" href="https://www.dropbox.com/s/trsldt0me90jzs8/resume.css"/>
+<title></title> 
+</head>
+<body>
+<div id="header">
+<p id="name">Rama Wattad</p>
+         <a href="mailto:rama.wattad.1995@gmail.com" target="_blank"><p id="email">rama.wattad.1995@gmail.com</p></a>
+      <p id="email">0509546663</p>
+     </div>
+     <div class="left">
+     </div>
+     <div class="right">
+            <h3>Education:</h3>
+            <p>
+            <ul>
+                <li>2015-2020 B.Sc in Computer Engineering, Technion - Israel Institute of Technology:</li>
+                <li>Courses: Computer Security (including cryptography and network security protocols),
+Compilation, Object oriented programming, Operating Systems, Algorithms, Computer
+Networks, Data Structures , Electronic devices, Circuits switching, Logic Design, VLSI Design,
+EE labs 1, 2,3.</li>
+              <li>• 2010-2013 Jatt hight school- full maturity major in electronics and physics</li>  
+             </ul>
+            </p>
+            <h3>Projects:</h3>
+        <p>
+            <ul>
+                <li>Android project - Development of an android application:
+▪ The application processes information given by user and suggests meals
+according to the user’s BMI and BMR.
+The application creates new meals during run-time according to the ingredients
+the user currently has using learning algorithms.
+• Developed in Kotlin over Android Studio platform integrating several Google
+services (e.g Google Authentication and Firebase</li>
+                <li>VLSI project- neural sigma delta Analog-digital converter using memristors:
+design of platform for 8-bits smart ADC (expanding an exist 4-bits smart ADC) by using
+delta-sigma modulators that proposed as a neuron activation function for inference and
+training of artificial analog neural networks.
+</li>            
+                <li>Forger game: designed and implemented a video game in VHDL over FPGA platform
+ as a part of a project in EE laboratory 1.
+
+</li>
+                
+             </ul>
+           </p>
+            <h>Personal skills: </h>
+            <p>
+            <ul>
+                <li>Quick learner with the ability to work under pressure.</li>
+                <li>Ability to work in a team and as an individual.
+</li>            
+                <li>Motivated and enthusiastic to acquire more knowledge and experience.
+
+</li>
+                
+             </ul>
+           </p>
+         <h>Technical proficiency: </h>
+            <p>
+            <ul>
+                <li>Software Programming languages such as Java, C/C++, Matlab.</li>
+                <li>Hardware Programming languages such as Verilog/System Verilog and VHDL .
+</li>            
+                <li> Basic knowledge in Assembly and Erlang.
+
+</li>
+                
+             </ul>
+           </p>
+ <h> Employment History:</h>
+            <p>
+            <ul>
+                <li>2016 EOP Technion – Worked as a mentor in the social program assisting first year
+Computer Science and Electrical Engineering students who attend Technion.</li>
+
+                
+             </ul>
+           </p>
+<h> Social experience:</h>
+            <p>
+            <ul>
+                <li>2014-2018 Perah Program – worked as a mentor offering academical aid to Elementary
+school pupils in subjects they struggle with. </li>
+
+                
+             </ul>
+           </p>
+
+ <h>Languages: </h>
+            <p>
+            <ul>
+                <li>Arabic - native tongue.</li>
+                <li>Hebrew - fluent .
+</li>            
+                <li> English - very good.
+
+</li>
+                
+             </ul>
+           </p>
+
+           
+     </div>
+     <div id="footer"></div>
+    </body>
+</html>
